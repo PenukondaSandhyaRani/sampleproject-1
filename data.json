@@ -1,0 +1,22 @@
+{
+	"details":{
+		"image":"msdhoni.jpg",
+		"name":"Mahendra Singh Dhoni",
+		"email":"penukondasandhyarani2157@gmail.com",
+		"phoneno":"9182736455"
+	},
+	"careerobjective":{
+		"cb1":"to become a good software engineering"
+	},
+	"academics":[{
+		"course":"Btech",
+		"college":"vignan",
+		"percentage":"82%";
+		"passout":"2022"
+	},
+		"course":"intermediate",
+		"college":"sri chaitanya",
+		"percentage":"94%";
+		"passout":"2018"
+
+}
